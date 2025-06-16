@@ -1,16 +1,16 @@
 <h3 align="left">Hi 👋! My name is emrovsky and I'm a developer/reverse engineer, from Turkiye.</h3>
 
-###
+<br>
 
 <div align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=notemrovsky&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />&nbsp;&nbsp;<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=notemrovsky&locale=en&hide_title=false&layout=compact&card_width=250&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-###
+<br>
 
 <img align="right" height="150" src="https://media1.tenor.com/m/qLbtMtPHOXMAAAAd/bocchi-bocchi-the-rock.gif"  />
 
-###
+<br>
 
 <div align="left">
   <h4>Languages I code:</h4>
@@ -19,6 +19,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
 </div>
 
+<br>
+
 <div align="left">
   <h4>Languages I learn:</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
@@ -26,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
 </div>
 
-###
+<br>
 
 <div align="left">
   <h4>My setup:</h4>
@@ -34,7 +36,7 @@
   <img src="https://img.shields.io/static/v1?message=Hyprland&logo=hyprland&label=&color=58E1FF&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="hyprland logo"  />
 </div>
 
-###
+<br>
 
 <div align="left">
   <h4>Contact me:</h4>
@@ -49,13 +51,13 @@
   </a>
 </div>
 
-###
+<br>
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/notemrovsky/notemrovsky/output/snake.svg" alt="Snake animation" />
 
-###
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=notemrovsky&style=for-the-badge&color=brightgreen" alt="Profile Views" />
