@@ -59,5 +59,5 @@
 ###
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=notemrovsky&style=for-the-badge&color=brightgreen" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=notemrovsky&style=for-the-badge&color=orange" alt="Profile Views" />
 </div>
