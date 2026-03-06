@@ -50,6 +50,9 @@
     <img src="https://img.shields.io/static/v1?message=proton&logo=gmail&label=&color=764BFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
+<a href="https://github.com/notemrovsky.gpg" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=GPG&logo=gnuprivacyguard&label=&color=0093DD&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gpg logo" />
+</a>
 
 <br>
 
