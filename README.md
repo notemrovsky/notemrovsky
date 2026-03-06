@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is emrovsky and I'm a developer/reverse engineer, from Turkiye.</h3>
+<h3 align="left">Hi 👋! My name is emrovsky and I'm a developer/reverse/security engineer, from Turkiye.</h3>
 
 <br>
 
